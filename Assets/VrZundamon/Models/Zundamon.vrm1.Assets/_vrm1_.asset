@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88684271e27adb843b6570957c9e7637, type: 3}
+  m_Name: _vrm1_
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: -1728013695380148634, guid: ac249de4b417f29409c16c05fa95ff62, type: 3}
+  Meta:
+    Name: Zundamon
+    Version: 1
+    Authors:
+    - Satoki
+    CopyrightInformation: 
+    ContactInformation: 
+    References:
+    - Sakamoto_Ahiru
+    ThirdPartyLicenses: 
+    Thumbnail: {fileID: 2800000, guid: 91cc08775f1987649a771471b3bb7771, type: 3}
+    AvatarPermission: 0
+    ViolentUsage: 0
+    SexualUsage: 0
+    CommercialUsage: 0
+    PoliticalOrReligiousUsage: 0
+    AntisocialOrHateUsage: 0
+    CreditNotation: 0
+    Redistribution: 0
+    Modification: 0
+    OtherLicenseUrl: 
+  Expression:
+    Happy: {fileID: 11400000, guid: 32697c656c363284080f55b4b01360de, type: 2}
+    Angry: {fileID: 11400000, guid: bc3eb191f5d4c1d4c86613e56024c3b8, type: 2}
+    Sad: {fileID: 11400000, guid: 0b8c4d19962a41d49af7bf97e58b8bf6, type: 2}
+    Relaxed: {fileID: 11400000, guid: 8a34137276ccef946b074952fcbc2db3, type: 2}
+    Surprised: {fileID: 11400000, guid: 09c1db48940731048b16fdcf4e5da9e7, type: 2}
+    Aa: {fileID: 11400000, guid: 3bc6894a148728a4a990b7194b9e67f0, type: 2}
+    Ih: {fileID: 11400000, guid: 7c478c9076528a644bcf002ba3a29fbd, type: 2}
+    Ou: {fileID: 11400000, guid: 9e0f48ce06a54814ba84ade8fe39a584, type: 2}
+    Ee: {fileID: 11400000, guid: da1732fee1448034d9fd06556c4b0600, type: 2}
+    Oh: {fileID: 11400000, guid: 65bb3e9d5ada3b048a82c999fe47e358, type: 2}
+    Blink: {fileID: 11400000, guid: c44e28ccc8411f44fae6423e9ac173e6, type: 2}
+    BlinkLeft: {fileID: 11400000, guid: 88774ee024f50f246a66ccaa1be1c0a6, type: 2}
+    BlinkRight: {fileID: 11400000, guid: c27994a20472b8d41b33c7905206d099, type: 2}
+    LookUp: {fileID: 11400000, guid: 1cb13990b1113954089f96e000e7f030, type: 2}
+    LookDown: {fileID: 11400000, guid: 14605d12b087396489d59ac4eb2288dc, type: 2}
+    LookLeft: {fileID: 11400000, guid: eea7db6273521b844b8778e363605e30, type: 2}
+    LookRight: {fileID: 11400000, guid: c25900ecc14f00c45b1d29edec1b9027, type: 2}
+    Neutral: {fileID: 11400000, guid: a84e37ef8d764a54db7b0cfc496434d5, type: 2}
+    CustomClips:
+    - {fileID: 11400000, guid: bca35f9d5d246b647b582eab90c777bc, type: 2}
+    - {fileID: 11400000, guid: a2d2a212e91809346bf955b84d7c15f8, type: 2}
+    - {fileID: 11400000, guid: 1836de25d2f324e4ab03244490dfc35f, type: 2}
+    - {fileID: 11400000, guid: 691af7fcdc1e0f54cb74965b6b5df689, type: 2}
+    - {fileID: 11400000, guid: 0a7abaefc559cdb44a05947ab43252c3, type: 2}
+    - {fileID: 11400000, guid: f30681a665de6674f9237b08760873b7, type: 2}
+    - {fileID: 11400000, guid: 1cbc12d64e2b67f45a96582989945201, type: 2}
+    - {fileID: 11400000, guid: db95e836560cc2c44a1dd770badb07f1, type: 2}
+    - {fileID: 11400000, guid: 48025c2f8b4e3f2458822ca30c51986d, type: 2}
+    - {fileID: 11400000, guid: 7d017452088b2fb4caaba9af3a299654, type: 2}
+    - {fileID: 11400000, guid: e52f0a8a48bd05947bbb6ffb49e64699, type: 2}
+    - {fileID: 11400000, guid: a473c68c9c1880942937249cd2c30245, type: 2}
+    - {fileID: 11400000, guid: 1616ea99a5ee7064796dd67462ce327a, type: 2}
+    - {fileID: 11400000, guid: 30bf86426841dcd4ab0323cbdd3f23b0, type: 2}
+    - {fileID: 11400000, guid: 744a9057dd26d6b4bb5a4bab383d835a, type: 2}
+    - {fileID: 11400000, guid: 0763ec8e6e345a34c8e0871370ca8262, type: 2}
+    - {fileID: 11400000, guid: 7b2977467a16b7a45afb29436f70b596, type: 2}
+    - {fileID: 11400000, guid: e113f04a6f1bfbe4eb22d2b4ecab699c, type: 2}
+    - {fileID: 11400000, guid: 45baa1f6e5ffbe048b78345d9cc14291, type: 2}
+    - {fileID: 11400000, guid: 62656418f0145b741ac5aac79e43b396, type: 2}
+    - {fileID: 11400000, guid: 85830c7511567df48977d613562817c0, type: 2}
+    - {fileID: 11400000, guid: fb9af12390f792e4cb8298c69d9e428b, type: 2}
+    - {fileID: 11400000, guid: e6c2f44bdfd7b0744b5832f4ac349bee, type: 2}
+    - {fileID: 11400000, guid: 9188036696c6ec244a5c85c292a79d3d, type: 2}
+    - {fileID: 11400000, guid: d341d48783a6ae94b908e71cc0919df0, type: 2}
+    - {fileID: 11400000, guid: 6417f399ca74b824dbae7f5b16d6f7f0, type: 2}
+    - {fileID: 11400000, guid: 1dbe4ecb7ccde7f49871d1945c31a74e, type: 2}
+    - {fileID: 11400000, guid: d6d290f795f58eb4bb3259a342f59a93, type: 2}
+    - {fileID: 11400000, guid: fe30b58d3817a8b468ec0434e16d228f, type: 2}
+    - {fileID: 11400000, guid: c94b6ff153c6f394390bcd7d211865ec, type: 2}
+    - {fileID: 11400000, guid: f25a0638d9e63214c8b12d285b04e8de, type: 2}
+    - {fileID: 11400000, guid: 71ac8c16e6bd3804c96c4d37bb1ee17d, type: 2}
+    - {fileID: 11400000, guid: 1a4fd8297cc59a849bff62fe1ceb2f28, type: 2}
+    - {fileID: 11400000, guid: ac49641d752a4314d925efaa38cc664d, type: 2}
+    - {fileID: 11400000, guid: 7c5d9e52339c8d1409d505d464b12f51, type: 2}
+    - {fileID: 11400000, guid: 960a7201f1a88484095acfcc5f097973, type: 2}
+    - {fileID: 11400000, guid: e19d8e79755a27942abb4a5308624088, type: 2}
+    - {fileID: 11400000, guid: 2f6f05e42b85b0f47964b250acc08f43, type: 2}
+    - {fileID: 11400000, guid: 47beccc4fb5a2034f8c65541558a1477, type: 2}
+    - {fileID: 11400000, guid: 52692b0215bd60f4fa04aecc768be113, type: 2}
+    - {fileID: 11400000, guid: d94b0a3d4982e354b8a1602ccda0e534, type: 2}
+    - {fileID: 11400000, guid: 906c2c3a029fcc24bb1d65340cdc7429, type: 2}
+  LookAt:
+    OffsetFromHead: {x: -0, y: 0, z: 0}
+    LookAtType: 0
+    HorizontalOuter:
+      CurveXRangeDegree: 90
+      CurveYRangeDegree: 10
+    HorizontalInner:
+      CurveXRangeDegree: 90
+      CurveYRangeDegree: 10
+    VerticalDown:
+      CurveXRangeDegree: 90
+      CurveYRangeDegree: 10
+    VerticalUp:
+      CurveXRangeDegree: 90
+      CurveYRangeDegree: 10
+  FirstPerson:
+    Renderers:
+    - Renderer: Body
+      FirstPersonFlag: 0
+    - Renderer: Cloth
+      FirstPersonFlag: 0
+    - Renderer: Hair
+      FirstPersonFlag: 0
+    - Renderer: Head
+      FirstPersonFlag: 0
+    - Renderer: Shoes
+      FirstPersonFlag: 0
