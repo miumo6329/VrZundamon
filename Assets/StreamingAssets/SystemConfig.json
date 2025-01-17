@@ -1,0 +1,10 @@
+{
+  "WhisperLocalAPI": {
+    "IP": "127.0.0.1",
+    "Port": 8000
+  },
+  "GeminiAPI": {
+    "Model": "gemini-1.5-flash-002",
+    "AccessToken": "your_access_token"
+  }
+}
